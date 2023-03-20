@@ -112,7 +112,7 @@ include_once('sidebar.php');
 </body>
 </html>
 </h1>
-          </div><!-- /.col -->
+          </div>
           <div class="col-sm-6">
             
             <ol class="breadcrumb float-sm-right">
